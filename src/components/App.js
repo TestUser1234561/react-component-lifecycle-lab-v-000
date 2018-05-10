@@ -1,7 +1,7 @@
 import React from 'react';
 import TweetWall from './TweetWall';
 
-import { getTweets }from '../lib/mockAPI';
+import { getTweets } from '../lib/mockAPI';
 
 class App extends React.Component {
 
